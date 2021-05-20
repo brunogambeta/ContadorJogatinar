@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contador da Jogatina</string>
+    <string name="segundo_jogador_main">Segundo Jogador</string>
+    <string name="pontuacao_jogador_2_main">Pontuação Jogador 2</string>
+    <string name="pontuacao_jogador_1_main">Pontuação Jogador 1</string>
+    <string name="primeiro_jogador_main">Primeiro Jogador</string>
+    <string name="jogador_1_pontuacao">Jogador 1</string>
+    <string name="pontuacao_numero_jogador1">0</string>
+    <string name="bt_remover_pontuacao_1">REMOVER</string>
+    <string name="adicionar_pontuacao_1">ADICIONAR</string>
+    <string name="jogador_2_pontuacao">Jogador 2</string>
+    <string name="numero_pontuacao_jogador2">0</string>
+    <string name="remover_pontuacao_jogador2">REMOVER</string>
+    <string name="adicionar_pontuacao_jogador2">ADICIONAR</string>
+</resources>
